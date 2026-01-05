@@ -34,6 +34,6 @@ int main() {
         printf("%s\n", list[i].str);
     }
 
-    free(list); // 동적 할당 해제
+    free(list);
     return 0;
 }
