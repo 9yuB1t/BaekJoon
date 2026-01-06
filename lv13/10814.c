@@ -35,6 +35,8 @@ int main(){
     for(int j = 0; j < N; j++){
         printf("%d %s\n",list[j].age,list[j].name);
     }
+    
+    free(list);
 
     return 0;
 }
