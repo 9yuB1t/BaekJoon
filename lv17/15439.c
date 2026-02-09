@@ -4,4 +4,6 @@ int main(){
     int N;
     scanf("%d",&N);
     printf("%d",N * (N -1));
+
+    return 0;
 }
