@@ -1,5 +1,4 @@
 //실시간 출력 방법
-/*
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -30,8 +29,8 @@ int main(){
 
     return 0;
 }
-*/
 
+/*배열 처리 방법
 #include <iostream>
 #include <vector>
 #include <cmath>
@@ -67,3 +66,4 @@ int main(){
     }
     return 0;
 }
+*/
